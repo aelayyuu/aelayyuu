@@ -19,7 +19,7 @@
 
 - 📄 Know about my experiences [https://www.youtube.com/watch?v=JklMM3YjAxI&t=154s](https://www.youtube.com/watch?v=JklMM3YjAxI&t=154s)
 
-- ⚡ Fun fact **2D 3D Referee :-B**
+- ⚡ Fun fact **2D 3D Referee :stuck_out_tongue_winking_eye:**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
