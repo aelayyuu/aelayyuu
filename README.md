@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **web development**
 
-- 👨‍💻 All of my projects are available at [thanlar.site/myportfolio.php](thanlar.site/myportfolio.php)
+- 👨‍💻 All of my projects are available at [thanlar.site](thanlar.site)
 
 - 📝 I regularly write articles on [https://medium.com/@aungyezaw529](https://medium.com/@aungyezaw529)
 
