@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aelayyuu&label=Profile%20views&color=0e75b6&style=flat" alt="aelayyuu" /> </p>
 
+[![DigitalOcean Referral Badge](https://web-platforms.sfo2.digitaloceanspaces.com/WWW/Badge%202.svg)](https://www.digitalocean.com/?refcode=2cac4a22aeaf&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge)
+
 - 🔭 I’m worked on [unityitsolutionprovider.com](http://www.unityitsolutionprovider.com/)
 
 - 🌱 I’m currently learning **React , javascript , node.js**
@@ -37,6 +39,3 @@
 <p><a href="https://www.buymeacoffee.com/aungyezaw"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="aungyezaw" /></a></p><br><br>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aelayyuu&show_icons=true&locale=en&layout=compact" alt="aelayyuu" /></p>
-
-[![DigitalOcean Referral Badge](https://web-platforms.sfo2.digitaloceanspaces.com/WWW/Badge%202.svg)](https://www.digitalocean.com/?refcode=2cac4a22aeaf&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge)
-
