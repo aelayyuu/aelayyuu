@@ -38,3 +38,5 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aelayyuu&show_icons=true&locale=en&layout=compact" alt="aelayyuu" /></p>
 
+[![DigitalOcean Referral Badge](https://web-platforms.sfo2.digitaloceanspaces.com/WWW/Badge%202.svg)](https://www.digitalocean.com/?refcode=2cac4a22aeaf&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge)
+
